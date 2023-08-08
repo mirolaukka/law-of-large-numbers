@@ -22,7 +22,7 @@ To utilize this simulation, follow these steps:
 
    ```
    git clone https://github.com/mirolaukka/law-of-large-numbers.git
-   cd law-of-large-numbers-simulation
+   cd law-of-large-numbers
    ```
 
 2. Install the required libraries using pip:
