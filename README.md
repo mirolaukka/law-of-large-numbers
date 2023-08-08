@@ -1,6 +1,6 @@
 # Law of Large Numbers Simulation
 
-![Simulation Gif](law_of_large_numbers_animation.gif)
+<img src="law_of_large_numbers_animation.gif" alt="Simulation Gif" width="1rem" height="400">
 
 This simulation provides a visual representation of the Law of Large Numbers, a fundamental concept in probability and statistics. The Law of Large Numbers states that as the size of a sample increases, the sample mean gets closer to the population mean. In simpler terms, it explains how the average of a large number of observations tends to converge to the expected value.
 
