@@ -1,5 +1,3 @@
-Of course, here's the raw version of the improved README:
-
 # Law of Large Numbers Simulation
 
 ![Simulation Gif](law_of_large_numbers_animation.gif)
